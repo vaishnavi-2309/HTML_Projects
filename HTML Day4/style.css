@@ -1,0 +1,81 @@
+.maindiv{
+
+    padding: 5px;
+    display: flex;
+    gap: 4px;
+}
+.coursediv{
+    border: 2px solid rgb(149, 46, 156);
+    background-color: rgb(187, 232, 217);
+    width: 25%;
+    text-align: center;
+    padding: 5%;
+    border-radius: 20px;
+}
+.coursebtn{
+    background-color: brown;
+    color: white;
+    border: 1px solid blue;
+    padding: 5%;
+    border-radius: 20px;
+    width: 100px;
+}
+.imgdiv{
+    width: 250%;
+    text-align: center;
+    /* border: 2px solid rgb(243, 153, 168); */
+    padding: 5%;
+}
+
+.textdiv{
+    
+    width: 250%;
+    text-align: center;
+    /* border: 2px solid rgb(243, 153, 168); */
+    padding: 5%;
+}
+.abc{
+    background-color:wheat ;
+    border: 2px solid darkolivegreen;
+}
+.divider:after,
+.divider:before {
+content: "";
+flex: 1;
+height: 1px;
+background: #eee;
+}
+.h-custom {
+height: calc(100% - 73px);
+}
+@media (max-width: 450px) {
+.h-custom {
+height: 100%;
+}
+}
+.subbtn{
+ border: 2px solid rgb(149, 46, 156);
+    width: 25%;
+    text-align: center;
+    padding: 5%;
+    
+   
+}
+.pqr{
+    border: 3px rgb(4, 255, 0) solid;
+    background-color: rgb(219, 178, 149);
+    padding: 10px;
+    display: flex;
+}
+.box{
+    border: 2px solid rgb(149, 46, 156);
+    background-color: rgb(71, 133, 112);
+    width: 25%;
+    text-align: center;
+    padding: 5%;
+    
+    
+}
+#a{
+    text-align: center;
+}

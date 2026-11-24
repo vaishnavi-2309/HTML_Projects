@@ -1,0 +1,18 @@
+h1 {
+            color: red;
+            background-color: aqua;
+        }
+        .abc{
+            background-color:brown;
+            color: white;
+        }
+        #pqr{
+            background-color: blue;
+            color: white;
+        }
+        /* h2,h3{
+            color: blueviolet;
+        } */
+        .heading4,#heading5{
+            color: blueviolet;
+        }
